@@ -75,8 +75,32 @@ https://www.dictionary.com/browse/line
 https://www.quora.com/What-is-line-1
 https://www.youtube.com/watch?v=fSLY8pf_J4c
 
-Lines and Shapes
-Lines in Art
-Lines in Math
-Curves
+## Lines and Shapes
+https://www.vecteezy.com/free-vector/line-shapes
+https://www.freepik.com/free-photos-vectors/line-shapes
+https://study.com/academy/lesson/what-is-a-boundary-line-in-math-definition-examples.html
+https://support.google.com/mymaps/answer/3433053?hl=en&co=GENIE.Platform%3DDesktop
+https://www.youtube.com/watch?v=5k387j7wcmw
+
+## Lines in Art
+https://fineartviews.com/blog/121048/what-does-line-mean-in-your-art
+https://www.nga.gov/learn/teachers/lessons-activities/elements-of-art/line.html
+https://juliannakunstler.com/art1_ea_line.html
+https://www.youtube.com/watch?v=UZp6ZFq54-s
+https://www.youtube.com/watch?v=BDePyEFT1gQ
+
+## Lines in Math
+https://en.wikipedia.org/wiki/Line_(geometry)
+https://www.pinterest.de/pin/350788258459044824/
+https://www.youtube.com/watch?v=SurCBSwdXMo
+https://www.youtube.com/watch?v=1qxDwanADf8
+https://www.youtube.com/watch?v=k5etrWdIY6o
+
+## Curves
+https://www.splashlearn.com/math-vocabulary/geometry/curve
+https://en.wikipedia.org/wiki/Curve
+https://web.archive.org/web/20040609111105/http://www-gap.dcs.st-and.ac.uk/~history/Curves/Curves.html
+https://www.2dcurves.com/
+https://faculty.evansville.edu/ck6/Gallery/Introduction.html
+
 Bezier Curves
