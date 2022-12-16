@@ -41,10 +41,40 @@ https://www.ideelart.com/magazine/defining-moments-in-the-history-of-abstract-ar
 https://www.youtube.com/watch?v=-08NQ3Zxy3s
 
 ## Bassicaly Shapes
+https://en.wikipedia.org/wiki/Shape
+https://www.cuemath.com/geometry/shapes/
+https://www.twinkl.de/teaching-wiki/shapes-in-math
+https://www.pinterest.de/pin/what-is-shape-definition-facts-example--342906959129047851/
+https://www.collinsdictionary.com/dictionary/english/shape
 
+## Rectangle 
+https://en.wikipedia.org/wiki/Rectangle
+https://www.splashlearn.com/math-vocabulary/geometry/rectangle
+https://www.cuemath.com/geometry/rectangle/
+https://byjus.com/maths/rectangle/
+https://study.com/learn/lesson/rectangle-types-examples-what-is-a-rectangle.html
 
-Rectangle Triangle Circle
-Lines
+## Triangle 
+https://www.splashlearn.com/math-vocabulary/geometry/triangle
+https://en.wikipedia.org/wiki/Triangle
+https://byjus.com/maths/triangles/
+https://www.dkfindout.com/us/math/geometry/types-triangle/
+https://www.twinkl.com/teaching-wiki/triangle
+
+## Circle
+https://en.wikipedia.org/wiki/Circle
+https://symbolsage.com/circle-symbolism-meaning/
+https://www.dictionary.com/browse/circle
+https://www.toppr.com/ask/question/the-graph-of-x24xy26y0-in-the-xyplane-is-a-circle-what-is-the-radius-of/
+https://www.youtube.com/watch?v=q-3w7o4zbWQ
+
+## Lines
+https://vanseodesign.com/web-design/visual-grammar-lines/
+https://theglobalmontessorinetwork.org/resource/elementary/lines-types-english/
+https://www.dictionary.com/browse/line
+https://www.quora.com/What-is-line-1
+https://www.youtube.com/watch?v=fSLY8pf_J4c
+
 Lines and Shapes
 Lines in Art
 Lines in Math
